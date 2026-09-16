@@ -1,8 +1,8 @@
 const SITE_CONFIG = {
   title: "ADHD Antenatal Risk Factors",
 
-  DAY_1: "2026-09-15",
-  DAY_2: "2026-09-16",
+  DAY_1: "2026-09-17",
+  DAY_2: "2026-09-18",
 
   TIME_ZONE: "Africa/Cairo",
 
